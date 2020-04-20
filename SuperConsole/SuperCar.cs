@@ -7,6 +7,14 @@ namespace SuperConsole
 {
     public class SuperCar : Car
     {
+        public string fuel
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public string GetPetName()
         {
             PetName = "Fred";

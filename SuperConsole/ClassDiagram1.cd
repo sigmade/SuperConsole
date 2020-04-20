@@ -17,7 +17,7 @@
   <Class Name="SuperConsole.SuperCar">
     <Position X="3.25" Y="5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
       <FileName>SuperCar.cs</FileName>
     </TypeIdentifier>
   </Class>
